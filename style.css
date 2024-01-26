@@ -1,0 +1,39 @@
+/*css style for recipes*/
+
+.header{
+    background-color: orange;
+    color: black;
+    font-size: 20px;
+    font-family: Helvetica, Verdana, sans-serif;
+    text-align: left;
+}
+
+.descheader{
+    color: black;
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.description{
+    color: darkmagenta;
+    font-size: 14px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ingredients{
+    color: darkgreen;
+    font-size: 20px;
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+.steps{
+    color: blueviolet;
+    font-size: 14px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+*{
+    color: darkblue;
+    font-size: 14px;
+    font-family:'Times New Roman', Times, serif
+}
